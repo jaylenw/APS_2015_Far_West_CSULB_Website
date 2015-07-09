@@ -1,0 +1,113 @@
+@import url("contribute.css");
+
+/********************************************************************************
+
+ *	Filename: website.css														*
+
+ *	Purpose: Affects the entire website											*
+
+ *	Created by: CSULB Webteam													*
+
+ *	Modified by: Jorge L. Hurtado, Frederick Camba, Pritesh Shah 				*
+
+ *	Last Modified: 05-11-2007													*
+
+ ********************************************************************************/
+
+
+
+/********************************************************************
+
+				SITEWIDE CONTROLS
+
+*********************************************************************/
+
+#contain_audiencenav 
+
+{
+
+	display:none;
+
+}
+
+#contain_divisionnav 
+
+{
+
+	display:block;
+
+}
+
+#contain_banner 
+
+{
+
+	display:none;
+
+}
+
+#contain_banner_secondary
+
+{
+
+	display:block;
+
+	background-image: url(http://csulb.edu/misc/depot/assets/UT/banner_bk.gif);
+
+}
+
+
+
+
+
+
+
+/********************************************************************
+
+				YOU ARE HERE NAVIGATION
+
+*********************************************************************/
+
+body.home #contain_column1 li.home a,
+
+body.contact #contain_column1 li.contact a,
+
+body.about #contain_column1 li.about a,
+
+body.equalcolumns #contain_column1 li.equalcolumns a,
+
+body.equalcolumns2 #contain_column1 li.equalcolumns2 a,
+
+body.news #contain_column1 li.news a,
+
+body.variations #contain_column1 li.variations a,
+
+body.baseline #contain_column1 li.baseline a,
+
+body.color #contain_column1 li.color a,
+
+body.tcolumn #contain_column1 li.tcolumn a, 
+
+body.onecolnav #contain_column1 li.onecolnav a, 
+
+body.grid #contain_column1 li.grid a,
+
+body.tcolumnnav #contain_column1 li.tcolumnnav a,
+
+body.forms #contain_column1 li.forms a,
+
+body.default #contain_column1 li.default a 
+
+
+
+{
+
+	background-color: #ddd;
+
+	color: #333;
+
+	cursor: default;
+
+	font-weight: bold;
+
+}
