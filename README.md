@@ -28,5 +28,12 @@ APS_2015_Far_West_CSULB_Website directory with the command line.
 
 -----------------------------------------------------------
 
+### original_backup Branch
+
+* Branch that has content pulled from server before any significant changes.
+
+
+--------------------------------------------------------------
+
 Files must be edited/changed according to the University Website
 guidelines. http://web.csulb.edu/misc/ut/
