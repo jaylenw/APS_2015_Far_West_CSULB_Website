@@ -35,5 +35,13 @@ APS_2015_Far_West_CSULB_Website directory with the command line.
 
 --------------------------------------------------------------
 
+### sams_work Branch
+
+* Work completed by Sam, @HavenAbove.  Branch was merged to master.  
+
+* Work set a good foundation to add content on.
+
+---------------------------------------------------------------
+
 Files must be edited/changed according to the University Website
 guidelines. http://web.csulb.edu/misc/ut/
