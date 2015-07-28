@@ -6,19 +6,24 @@
  *	Last Modified: 05-31-2007													*
  ********************************************************************************/
 
+
+
+
 h1 
 {
-	font-size:1.5em; 
+	/*font-face:Arial Black;*/
+	font-size:21pt; 
 	line-height:1em;
 	font-weight:bold;
-	margin-bottom:.75em; 
-	border-left:15px solid #ffc600;
+	margin-bottom:.35em; 
+	/*border-left:15px solid #ffc600; */
 	padding-left:8px;
 }
 
 h2 
 {
-	font-size:1.4em;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size:1.8em;
 	line-height:1em;
 	font-weight:bold;
 	margin-bottom:.75em;
