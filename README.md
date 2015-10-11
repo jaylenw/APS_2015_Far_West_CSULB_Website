@@ -1,6 +1,7 @@
 # APS_2015_Far_West_CSULB_Website
 
-Website files for the 2015 Far West APS Meeting.
+Website files for the 2015 Far West APS Meeting.  This is just a basic template version of it.
+Final version is on CSULB's servers.
 
 
 ## Running Development Server in Linux/MAC
